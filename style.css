@@ -27,6 +27,12 @@ img{
   border-bottom: 1px solid #fff;
   position: relative;
 }
+.tab-nav li:hover{
+  background: #594646;
+  color: #eae4e4;
+  border-radius: 12px;
+  border: 2px solid #fff;
+}
 
 .tab-nav li {
   padding: 20px 30px;
